@@ -553,11 +553,6 @@ main {
   line-height: 1.6;
 }
 
-
-/**
- * skills 
- */
-
 .skills-title { margin-bottom: 20px; }
 
 .skills-list { padding: 20px; }
@@ -591,13 +586,7 @@ main {
   border-radius: inherit;
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #PORTFOLIO
-\*-----------------------------------*/
+/* Portifolio */
 
 .filter-list { display: none; }
 
